@@ -1,0 +1,15 @@
+SELECT  IdProduto,
+        DescCategoriaProduto
+
+/*
+iSSO É UM
+COMETARIO DE MULTIPLAS
+LINHAS
+*/
+
+FROM produtos
+
+-- ISSO NÃO É EXECUTADO, POIS É UM COMENTÁRIO
+-- OUTRO COMETÁRIO IGNORADO
+
+LIMIT 3
