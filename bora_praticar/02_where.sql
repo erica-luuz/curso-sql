@@ -5,3 +5,5 @@ SELECT *
 FROM transacoes
 
 WHERE qtdePontos = 50
+
+LIMIT 10;

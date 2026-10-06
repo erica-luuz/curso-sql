@@ -1,5 +1,5 @@
 -- Selecione todos os clientes com 
--- mais de 500 pontos
+-- mais de 500 pontos e igual a 500 pontos
 
 SELECT  idCliente,
         qtdePontos

@@ -15,3 +15,7 @@ OR DescNomeProduto = 'Churn_5pp'
 -- % Coringa
 
 WHERE DescNomeProduto LIKE 'churn%'    
+
+-- ou se eu quiser uma palavra que terrmina com qualquer coisa e
+-- termina com pp seria :
+-- WHERE DescProduto LIKE '%pp'

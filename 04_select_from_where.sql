@@ -4,4 +4,5 @@ FROM produtos
 
 WHERE DescCategoriaProduto = 'rpg'
 
-LIMIT 10
+LIMIT 10;
+
